@@ -1,0 +1,15 @@
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.GeneratedMSBuildEditorConfig.editorconfig
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.AssemblyInfoInputs.cache
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.AssemblyInfo.cs
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.csproj.CoreCompileInputs.cache
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.sourcelink.json
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/bin/Debug/net9.0/1.1-Instalation&Proving
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/bin/Debug/net9.0/1.1-Instalation&Proving.deps.json
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/bin/Debug/net9.0/1.1-Instalation&Proving.runtimeconfig.json
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/bin/Debug/net9.0/1.1-Instalation&Proving.dll
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/bin/Debug/net9.0/1.1-Instalation&Proving.pdb
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.dll
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/refint/1.1-Instalation&Proving.dll
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.pdb
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/1.1-Instalation&Proving.genruntimeconfig.cache
+/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/Debug/net9.0/ref/1.1-Instalation&Proving.dll
