@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/1.1-Instalation&Proving.csproj": {}
+    "/home/jorge/No-Home/Learning/ASP .NET CORE/1.1-Instalation/1.1-Instalation&Proving.csproj": {}
   },
   "projects": {
-    "/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/1.1-Instalation&Proving.csproj": {
+    "/home/jorge/No-Home/Learning/ASP .NET CORE/1.1-Instalation/1.1-Instalation&Proving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/1.1-Instalation&Proving.csproj",
+        "projectUniqueName": "/home/jorge/No-Home/Learning/ASP .NET CORE/1.1-Instalation/1.1-Instalation&Proving.csproj",
         "projectName": "1.1-Instalation&Proving",
-        "projectPath": "/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/1.1-Instalation&Proving.csproj",
+        "projectPath": "/home/jorge/No-Home/Learning/ASP .NET CORE/1.1-Instalation/1.1-Instalation&Proving.csproj",
         "packagesPath": "/home/jorge/.nuget/packages/",
-        "outputPath": "/home/jorge/No-Home/Learning/Dotnet/1.1-Instalation/obj/",
+        "outputPath": "/home/jorge/No-Home/Learning/ASP .NET CORE/1.1-Instalation/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/jorge/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
